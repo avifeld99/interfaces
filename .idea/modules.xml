@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/interfaces.iml" filepath="$PROJECT_DIR$/.idea/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces_deel1/interfaces_deel1.iml" filepath="$PROJECT_DIR$/interfaces_deel1/interfaces_deel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces_deel2/interfaces_deel2.iml" filepath="$PROJECT_DIR$/interfaces_deel2/interfaces_deel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces_deel3/interfaces_deel3.iml" filepath="$PROJECT_DIR$/interfaces_deel3/interfaces_deel3.iml" />
+    </modules>
+  </component>
+</project>
